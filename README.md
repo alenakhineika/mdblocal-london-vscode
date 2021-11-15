@@ -1,4 +1,4 @@
-# MongoDB for VSCode: Be More Productive When You Build Applications
+# MongoDB for VSCode: Be More Productive When You Build Applications v2
 
 [MongoDB.local London](https://events.mongodb.com/dotlocallondon) conference, 09.11.2021
 
